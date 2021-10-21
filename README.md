@@ -46,7 +46,7 @@ The future Updatas for this project :
 
   
 ## Indie Game Company
-![Arcking Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ts3twmjp988kbiyjp065.png)
+![GRURD Logo](https://user-images.githubusercontent.com/71445997/137855250-68003b1d-e43d-480d-8b69-5acd1b869999.png)
 ## Authors
 
 - [@buddhadebChhetri](https://github.com/Buddhad)
